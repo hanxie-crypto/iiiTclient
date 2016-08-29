@@ -1,0 +1,5 @@
+module.exports = {
+    NAVIGATOR_IOS_HEIGHT:44,
+    NAVIGATOR_ANDROID_HEIGHT: 56,
+    BASE_PATH: 'http://192.168.3.2:3000',
+}

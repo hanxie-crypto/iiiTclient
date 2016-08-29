@@ -1,0 +1,35 @@
+export const HOME = 'HOME';
+export const DISCOVER = 'DISCOVER';
+export const SKILL = 'SKILL';
+
+export const MINE = 'MINE';
+
+export const CLASSDETAIL = 'CLASSDETAIL';
+
+export const COMMUNION = 'COMMUNION';
+export const COMMUNIONDETAIL = 'COMMUNIONDETAIL';
+export const SKILLDETAIL = 'SKILLDETAIL';
+
+export const PUBQUESTION = 'PUBQUESTION';
+
+export const PUBSKILL = 'PUBSKILL';
+export const MINEVIPINFO = 'MINEVIPINFO';
+
+export const MINESCORE = 'MINESCORE';
+export const MINESCOREDESCLIST = 'MINESCOREDESCLIST';
+
+export const MINEGETSCORE = 'MINEGETSCORE';
+export const MINEMAKESCORE = 'MINEMAKESCORE';
+
+export const MINEPUBPAGE = 'MINEPUBPAGE';
+
+export const MINECOLLECT = 'MINECOLLECT';
+
+export const MINEBOUGHTCLASS = 'MINEBOUGHTCLASS';
+export const MINEINFO = 'MINEINFO';
+
+export const SKILLTYPELIST = 'SKILLTYPELIST';
+
+export const COMMUNIONTYPELIST = 'COMMUNIONTYPELIST';
+
+export const PUBCOMMUNIONSUB = 'PUBCOMMUNIONSUB';
